@@ -1,0 +1,8 @@
+package inhertanceExamples;
+
+public class Customer {
+ int p=2;
+ int t = 4;
+ int r =5;
+ 
+}

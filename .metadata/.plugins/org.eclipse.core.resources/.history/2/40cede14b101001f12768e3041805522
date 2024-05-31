@@ -1,0 +1,6 @@
+package inhertanceExamples;
+
+public class Internal {
+ int mark1 =3;
+ int mark2 =4;
+}
